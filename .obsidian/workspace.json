@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "DevOps/1 Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "020a6bf9d1f796e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -113,17 +119,17 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "93a61edaa08172a2",
+  "active": "020a6bf9d1f796e1",
   "lastOpenFiles": [
+    "未命名.md",
+    "DevOps/1 Docker.md",
+    "test.md",
     "前端領域/TypeScript/4.4 Interface.md",
     "前端領域/TypeScript/4.4a extends 的條件判斷.md",
     "前端領域/TypeScript/3 tsconfig.md",
     "前端領域/TypeScript/1 為什麼要用 TypeScript.md",
     "前端領域/TypeScript/4.2 物件.md",
     "前端領域/TypeScript/2 在 Webpack 中整合 TypeScript.md",
-    "前端領域/TypeScript/7 Class.md",
-    "前端領域/React/5.5 UseMemo 和 UseCallback.md",
-    "前端領域/React/5.2d Form State.md",
-    "前端領域/React/5.2c Lazy Init.md"
+    "前端領域/TypeScript/7 Class.md"
   ]
 }
