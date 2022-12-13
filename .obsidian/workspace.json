@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "edfc9d0cd3fc6206",
+        "id": "66124b18b8f9b22e",
         "type": "tabs",
         "children": [
           {
-            "id": "342fc85226077d34",
+            "id": "93a61edaa08172a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端領域/TypeScript/4.4 Interface.md",
+                "file": "test.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/TypeScript/4.4 Interface.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/TypeScript/4.4 Interface.md"
+                "file": "test.md"
               }
             }
           },
@@ -113,10 +113,10 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "342fc85226077d34",
+  "active": "93a61edaa08172a2",
   "lastOpenFiles": [
-    "前端領域/TypeScript/4.4a extends 的條件判斷.md",
     "前端領域/TypeScript/4.4 Interface.md",
+    "前端領域/TypeScript/4.4a extends 的條件判斷.md",
     "前端領域/TypeScript/3 tsconfig.md",
     "前端領域/TypeScript/1 為什麼要用 TypeScript.md",
     "前端領域/TypeScript/4.2 物件.md",
