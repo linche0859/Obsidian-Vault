@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/1 Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "020a6bf9d1f796e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,16 +113,16 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "020a6bf9d1f796e1",
+  "active": "93a61edaa08172a2",
   "lastOpenFiles": [
+    "DevOps/1 Docker.md",
+    "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
     "前端領域/React/5.4a 操作 DOM 元素.md",
     "前端領域/React/5.4 Hook UseRef.md",
     "前端領域/React/5.2d Form State.md",
-    "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
     "前端領域/React/6 Context.md",
     "前端領域/React/5.6 UseReducer.md",
     "未命名.md",
-    "DevOps/1 Docker.md",
     "test.md",
     "前端領域/TypeScript/4.4 Interface.md"
   ]
