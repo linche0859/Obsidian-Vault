@@ -18,8 +18,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37fcf2c5892a22b8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 506.5,
+                  "y": 211,
+                  "zoom": -0.6719244158513032,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
+                "file": "前端領域/JavaScript/7 Proxy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md"
+                "file": "前端領域/JavaScript/7 Proxy.md"
               }
             }
           },
@@ -113,17 +130,27 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "93a61edaa08172a2",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:Create new canvas": false,
+      "command-palette:開啟命令面板": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false
+    }
+  },
+  "active": "37fcf2c5892a22b8",
   "lastOpenFiles": [
-    "DevOps/1 Docker.md",
     "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
+    "未命名.canvas",
+    "DevOps/1 Docker.md",
     "前端領域/React/5.4a 操作 DOM 元素.md",
     "前端領域/React/5.4 Hook UseRef.md",
     "前端領域/React/5.2d Form State.md",
     "前端領域/React/6 Context.md",
     "前端領域/React/5.6 UseReducer.md",
     "未命名.md",
-    "test.md",
-    "前端領域/TypeScript/4.4 Interface.md"
+    "test.md"
   ]
 }
