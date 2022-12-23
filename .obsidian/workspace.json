@@ -23,15 +23,11 @@
             "id": "37fcf2c5892a22b8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 506.5,
-                  "y": 211,
-                  "zoom": -0.6719244158513032,
-                  "snapToGrid": false
-                }
+                "file": "前端領域/TypeScript/4.3 型別斷言和 unknown.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "前端領域/TypeScript/4.3 型別斷言和 unknown.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "前端領域/TypeScript/4.3 型別斷言和 unknown.md"
               }
             }
           },
@@ -142,15 +138,15 @@
   },
   "active": "37fcf2c5892a22b8",
   "lastOpenFiles": [
-    "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
+    "前端領域/TypeScript/4.5 union、never、強制斷言.md",
+    "前端領域/React/8.2 RTK Query.md",
     "未命名.canvas",
+    "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
     "DevOps/1 Docker.md",
     "前端領域/React/5.4a 操作 DOM 元素.md",
     "前端領域/React/5.4 Hook UseRef.md",
     "前端領域/React/5.2d Form State.md",
     "前端領域/React/6 Context.md",
-    "前端領域/React/5.6 UseReducer.md",
-    "未命名.md",
-    "test.md"
+    "前端領域/React/5.6 UseReducer.md"
   ]
 }
