@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c0d94fe64b6f187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端領域/React/9 React Query.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45500354fb43b524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端領域/React/9.1 發送複數個請求.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/TypeScript/4.3 型別斷言和 unknown.md",
+                "file": "前端領域/React/9 React Query.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/TypeScript/4.3 型別斷言和 unknown.md"
+                "file": "前端領域/React/9 React Query.md"
               }
             }
           },
@@ -136,17 +160,17 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "37fcf2c5892a22b8",
+  "active": "2c0d94fe64b6f187",
   "lastOpenFiles": [
+    "前端領域/React/9.1 發送複數個請求.md",
+    "前端領域/React/9 React Query.md",
+    "前端領域/TypeScript/4.3 型別斷言和 unknown.md",
     "前端領域/TypeScript/4.5 union、never、強制斷言.md",
     "前端領域/React/8.2 RTK Query.md",
     "未命名.canvas",
     "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
     "DevOps/1 Docker.md",
     "前端領域/React/5.4a 操作 DOM 元素.md",
-    "前端領域/React/5.4 Hook UseRef.md",
-    "前端領域/React/5.2d Form State.md",
-    "前端領域/React/6 Context.md",
-    "前端領域/React/5.6 UseReducer.md"
+    "前端領域/React/5.4 Hook UseRef.md"
   ]
 }
