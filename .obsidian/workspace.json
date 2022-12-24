@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93a61edaa08172a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端領域/React/6.1 Context 和 UseReducer 的綜合運用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37fcf2c5892a22b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端領域/TypeScript/4.3 型別斷言和 unknown.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c0d94fe64b6f187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端領域/React/7 React Router.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "797913491f7a9f00",
             "type": "leaf",
             "state": {
@@ -56,19 +20,18 @@
             }
           },
           {
-            "id": "45500354fb43b524",
+            "id": "9be586a261a7737f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端領域/React/9.1 發送複數個請求.md",
+                "file": "前端領域/React/7.3 巢狀路由.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"

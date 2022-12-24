@@ -134,4 +134,32 @@
 	```
 
 # 在 Link 元件上傳遞 state
-Link 元件上可以加入 state 屬性
+`Link` 元件上可以加入 `state` 屬性，並將資料傳遞給欲前往的路由元件。
+```tsx
+const ProductLayout = () => {
+  return (
+    <>
+      <nav>
+        <span>
+          <Link to="/products/1" state={{ state: 'Product 1' }}>
+            Product 1
+          </Link>
+        </span>
+      </nav>
+    </>
+  )
+}
+```
+
+匹配到的路由元件可以藉由 `useLocation` Hook 取得 `location` 上的 `state` 值。
+```tsx
+import { useLocation } from 'react-router-dom'
+
+const Product = () => {
+  const location = useLocation()
+
+  console.log(location.state)
+
+  return <div>Product {id}</div>
+}
+```
