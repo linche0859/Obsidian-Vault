@@ -9,7 +9,7 @@
 1. 新增 `routes.tsx` 檔案來規劃專案的路由規則。
 	```tsx
 	// routers.tsx
-	import type { RouteObject } from 'react-router-dom'
+	import { RouteObject } from 'react-router-dom'
 	import Home from '@/pages/home'
 	import NotFound from '@/pages/NotFound'
 	
@@ -132,3 +132,6 @@
 	  )
 	}
 	```
+
+# 在 Link 元件上傳遞 state
+Link 元件上可以加入 state 屬性
