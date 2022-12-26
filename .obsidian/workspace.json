@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "30888ea3ae30b75a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "9be586a261a7737f",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +146,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "797913491f7a9f00",
+  "active": "30888ea3ae30b75a",
   "lastOpenFiles": [
     "前端領域/React/7 React Router.md",
     "前端領域/React/7.3 巢狀路由.md",
