@@ -1,4 +1,4 @@
-[[Gitlab]]、[[主題分類/DevOps/Docker]]
+[[Gitlab]]、[[Docker]]
 
  > 參考 
  > 龍哥的影片：[為你自己學 Gitlab CI/CD](https://youtube.com/playlist?list=PLBd8JGCAcUAEwyH2kT1wW2BUmcSPQzGcu)。

@@ -1,4 +1,4 @@
-[[1 Docker]]
+[[Docker]]
 
 # Docker 指令
 ## 打包成 image

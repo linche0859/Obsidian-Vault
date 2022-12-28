@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "797913491f7a9f00",
+            "id": "2b1be953452cbb71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端領域/React/7.3 巢狀路由.md",
+                "file": "主題標籤/知識領域/流程圖.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30888ea3ae30b75a",
+            "id": "f879cc6849380c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9be586a261a7737f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "前端領域/React/7.3 巢狀路由.md",
+                "file": "Tool/Text To FlowChart.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
+                "file": "Tool/Text To FlowChart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md"
+                "file": "Tool/Text To FlowChart.md"
               }
             }
           },
@@ -145,20 +133,21 @@
       "graph:查看關聯圖": false,
       "canvas:Create new canvas": false,
       "command-palette:開啟命令面板": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "templates:插入模板": false
     }
   },
-  "active": "30888ea3ae30b75a",
+  "active": "9233bb4ed40dcb3c",
   "lastOpenFiles": [
-    "前端領域/TypeScript/7 Class.md",
-    "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
-    "前端領域/TypeScript/4.4a extends 的條件判斷.md",
-    "前端領域/TypeScript/6.1 extends 的條件判斷.md",
-    "前端領域/TypeScript/6 泛型.md",
-    "前端領域/TypeScript/4.4 Interface.md",
-    "前端領域/React/7 React Router.md",
+    "主題標籤/知識領域/流程圖.md",
+    "DevOps/1 Docker.md",
+    "DevOps/2 Gitlab CI&CD.md",
+    "Notion.md",
+    "Template/Diary Template.md",
+    "Template/Tool.md",
     "前端領域/React/7.3 巢狀路由.md",
-    "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
-    "前端領域/React/7.2 Protected Route 限制使用者可訪問的頁面.md"
+    "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
+    "前端領域/TypeScript/7 Class.md",
+    "前端領域/TypeScript/4.4a extends 的條件判斷.md"
   ]
 }
