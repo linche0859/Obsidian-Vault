@@ -23,9 +23,11 @@
             "id": "30888ea3ae30b75a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/React/7.3 巢狀路由.md",
+                "file": "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/React/7.3 巢狀路由.md"
+                "file": "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md"
               }
             }
           },
@@ -148,15 +150,15 @@
   },
   "active": "30888ea3ae30b75a",
   "lastOpenFiles": [
+    "前端領域/TypeScript/7 Class.md",
+    "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
+    "前端領域/TypeScript/4.4a extends 的條件判斷.md",
+    "前端領域/TypeScript/6.1 extends 的條件判斷.md",
+    "前端領域/TypeScript/6 泛型.md",
+    "前端領域/TypeScript/4.4 Interface.md",
     "前端領域/React/7 React Router.md",
     "前端領域/React/7.3 巢狀路由.md",
     "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
-    "前端領域/React/7.2 Protected Route 限制使用者可訪問的頁面.md",
-    "前端領域/React/9 React Query.md",
-    "前端領域/React/9.1 發送複數個請求.md",
-    "前端領域/TypeScript/4.3 型別斷言和 unknown.md",
-    "前端領域/TypeScript/4.5 union、never、強制斷言.md",
-    "前端領域/React/8.2 RTK Query.md",
-    "未命名.canvas"
+    "前端領域/React/7.2 Protected Route 限制使用者可訪問的頁面.md"
   ]
 }
