@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tool/Text To FlowChart 快速將清單轉換成流程圖.md",
+                "file": "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useRef",
+                "query": "hash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tool/Text To FlowChart 快速將清單轉換成流程圖.md",
+                "file": "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tool/Text To FlowChart 快速將清單轉換成流程圖.md"
+                "file": "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md"
               }
             }
           },
@@ -138,10 +139,12 @@
   },
   "active": "f879cc6849380c46",
   "lastOpenFiles": [
+    "前端領域/開發工具和設定/1 Vite 建置 Vue 專案.md",
+    "前端領域/Vue/1 Vue 中實作 Web Component.md",
+    "Tool/Text To FlowChart 快速將清單轉換成流程圖.md",
     "知識領域/職場/1 主管這樣帶人就對了.md",
     "主題標籤/知識領域/團隊管理.md",
     "主題標籤/知識領域/流程圖.md",
-    "Tool/Text To FlowChart 快速將清單轉換成流程圖.md",
     "Template/Tool Template.md",
     "DevOps/1 Docker.md",
     "DevOps/2 Gitlab CI&CD.md",
