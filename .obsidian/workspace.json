@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
+                "file": "前端領域/TypeScript/7 Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
+                "file": "前端領域/TypeScript/7 Class.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md"
+                "file": "前端領域/TypeScript/7 Class.md"
               }
             }
           },
@@ -139,6 +138,10 @@
   },
   "active": "f879cc6849380c46",
   "lastOpenFiles": [
+    "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
+    "前端領域/TypeScript/6.3 Keyof 的應用.md",
+    "前端領域/TypeScript/6.2 Infer 的使用.md",
+    "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
     "前端領域/開發工具和設定/1 Vite 建置 Vue 專案.md",
     "前端領域/Vue/1 Vue 中實作 Web Component.md",
     "Tool/Text To FlowChart 快速將清單轉換成流程圖.md",
