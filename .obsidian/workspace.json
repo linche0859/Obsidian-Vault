@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端領域/TypeScript/7 Class.md",
+                "file": "前端領域/網站指標/2.7 CLS.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hash",
+                "query": "CSS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/TypeScript/7 Class.md",
+                "file": "前端領域/網站指標/2.7 CLS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/TypeScript/7 Class.md"
+                "file": "前端領域/網站指標/2.7 CLS.md"
               }
             }
           },
@@ -138,6 +139,7 @@
   },
   "active": "f879cc6849380c46",
   "lastOpenFiles": [
+    "前端領域/TypeScript/7 Class.md",
     "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
     "前端領域/TypeScript/6.3 Keyof 的應用.md",
     "前端領域/TypeScript/6.2 Infer 的使用.md",
