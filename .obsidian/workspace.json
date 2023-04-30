@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端領域/網站指標/2.7 CLS.md",
+                "file": "前端領域/Vue/1 Vue 中實作 Web Component.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CSS",
+                "query": "<T>(text: T)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端領域/網站指標/2.7 CLS.md",
+                "file": "前端領域/Vue/1 Vue 中實作 Web Component.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端領域/網站指標/2.7 CLS.md"
+                "file": "前端領域/Vue/1 Vue 中實作 Web Component.md"
               }
             }
           },
@@ -139,10 +138,20 @@
   },
   "active": "f879cc6849380c46",
   "lastOpenFiles": [
+    "後端與資料庫/Nodejs/2.6 第三方登入.md",
+    "後端與資料庫/Nodejs/2.10 藍新金流串接.md",
+    "DevOps/1 Docker.md",
     "前端領域/TypeScript/7 Class.md",
     "前端領域/TypeScript/6.4 Function 和 Class 的泛型應用.md",
-    "前端領域/TypeScript/6.3 Keyof 的應用.md",
+    "前端領域/TypeScript/6 泛型.md",
+    "前端領域/TypeScript/4.2 物件.md",
+    "前端領域/TypeScript/4.1 陣列和元祖.md",
+    "前端領域/TypeScript/1 為什麼要用 TypeScript.md",
+    "前端領域/TypeScript/5.2 Rest 參數.md",
     "前端領域/TypeScript/6.2 Infer 的使用.md",
+    "前端領域/TypeScript/4.6 Enum.md",
+    "前端領域/網站指標/2.7 CLS.md",
+    "前端領域/TypeScript/6.3 Keyof 的應用.md",
     "前端領域/React/7.1 路由的 Hash 和 Browser 模式差異.md",
     "前端領域/開發工具和設定/1 Vite 建置 Vue 專案.md",
     "前端領域/Vue/1 Vue 中實作 Web Component.md",
@@ -151,7 +160,6 @@
     "主題標籤/知識領域/團隊管理.md",
     "主題標籤/知識領域/流程圖.md",
     "Template/Tool Template.md",
-    "DevOps/1 Docker.md",
     "DevOps/2 Gitlab CI&CD.md",
     "Notion.md",
     "Template/Diary Template.md",
