@@ -69,9 +69,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b74ea61462145515",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端與資料庫/Nodejs/1 Node 模組原理.md",
+                "file": "主題標籤/知識領域/流程圖.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端與資料庫/Nodejs/1 Node 模組原理.md"
+                "file": "主題標籤/知識領域/流程圖.md"
               }
             }
           },
@@ -137,7 +144,7 @@
       "templates:插入模板": false
     }
   },
-  "active": "f879cc6849380c46",
+  "active": "9233bb4ed40dcb3c",
   "lastOpenFiles": [
     "後端與資料庫/Nodejs/2 Express.md",
     "後端與資料庫/Nodejs/1 Node 模組原理.md",
